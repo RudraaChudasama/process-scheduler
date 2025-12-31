@@ -14,3 +14,21 @@ This project simulates the FCFS (First Come First Serve) scheduling algorithm.
 ## How to Run
 g++ scheduler.cpp -o scheduler
 ./scheduler
+
+# OS Scheduling Algorithms
+
+This repository contains implementations of classic CPU scheduling algorithms
+for learning Operating Systems concepts.
+
+## Implemented Algorithms
+- FCFS
+- Shortest Job First (SJF)
+- Priority Scheduling
+- Round Robin
+
+## Language
+- C++
+
+## Purpose
+Academic and learning project to understand CPU scheduling and performance trade-offs.
+
